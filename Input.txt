@@ -1,0 +1,17 @@
+???
+(hi)& {}
+fact  := fact *  x;
+x=y;
+22223xdr = 4 ; 
+read x; 
+x233 = 14
+if  0 < x   then {this is a comment}   
+  fact  := 12;
+  repeat 
+   fact  := fact *  x;
+     1x  := x  -  11
+   until  x  =  0;
+   write  fact   
+hi ya then 3 x =3 e:=4;
+end  
+x;
